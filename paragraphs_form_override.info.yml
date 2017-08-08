@@ -1,0 +1,5 @@
+name: Paragraphs Form Override
+type: module
+description: 'Example of a Paragraphs Behavior plugin to add uuid to a paragraph display form.'
+package: custom
+core: '8.x'
